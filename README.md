@@ -33,3 +33,10 @@ Proyectos de visión artificial embebida.
 Dispositivos portátiles conectados mediante redes celulares.
 
 Nota: Algunas funciones requieren la soldadura de cables o módulos externos según la configuración específica del proyecto.
+⚠️ Proprietary Hardware Design
+
+All Rights Reserved.
+
+This repository contains proprietary PCB and hardware designs.
+Unauthorized copying, manufacturing, modification, or distribution
+is prohibited.
