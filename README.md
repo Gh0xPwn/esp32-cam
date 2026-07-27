@@ -4,6 +4,8 @@ Portable esp32-cam
 ESP32-CAM Portable Development Board
 
 Plataforma portátil basada en ESP32-CAM diseñada para aplicaciones de visión embebida, monitoreo remoto e IoT alimentadas por batería.
+<img width="2000" height="1294" alt="image" src="https://github.com/user-attachments/assets/4530fd18-144a-4c0f-8a9d-e0612daeb3b6" />
+
 
 
 
